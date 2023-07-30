@@ -1,3 +1,3 @@
 # W5flex
 
-Изучаю flex
+изучаю flex
